@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-preview-component-css-flexbox-pxnXUceqDs)
-- Live Site URL: [Vercel]((https://product-preview-component-nine.vercel.app)
+- Live Site URL: [Vercel](https://product-preview-component-nine.vercel.app)
 
 ### Built with
 
