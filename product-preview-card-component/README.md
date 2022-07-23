@@ -81,4 +81,4 @@ I will keep focusing and researching on how to code in mobile-first and also res
 ## Author
 
 - Website - [Justin Vera](justinvera.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/justinnvera)
+- Frontend Mentor - [@justinnvera](https://www.frontendmentor.io/profile/justinnvera)
