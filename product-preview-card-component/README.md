@@ -16,8 +16,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
     - [Continued development](#continued-development)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -29,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshot.png)
+![](screenshot.png)
 
 
 ### Links
@@ -37,18 +35,11 @@ Users should be able to:
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/product-preview-component-css-flexbox-pxnXUceqDs)
 - Live Site URL: [Vercel]((https://product-preview-component-nine.vercel.app)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
